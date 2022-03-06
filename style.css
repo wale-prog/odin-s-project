@@ -1,0 +1,27 @@
+body{
+    background-color: #212121;
+    color: #ffffff;
+}
+
+
+.hamburger{
+    width: 3%;
+    color: #ffffff;
+}
+form button i{
+    color: #212121;
+}
+.microphone{
+    border-radius: 50%;
+    
+    
+}
+.microphone-container{
+    width: 32px;
+}
+.main-body .sidebar svg{
+    background-color: white;
+}
+.hidden{
+    visibility: hidden;
+}
